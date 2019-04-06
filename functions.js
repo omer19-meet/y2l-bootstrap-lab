@@ -6,7 +6,7 @@ function count(id) {
 // Clears calculator input screen
 function Clear() {
 	var x = document.getElementById('omerscalc'); 
-  document.x.result.value=+;
+  // document.x.result.value=+;
 }
 
 // Calculates input values
